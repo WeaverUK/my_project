@@ -1,0 +1,80 @@
+{
+    "wagon service positions": [
+        "itr",
+        "master_kru",
+        "master_tor",
+        "nach_pto",
+        "operpto",
+        "opertor",
+        "osm1",
+        "osm2",
+        "osm3",
+        "rab_akp",
+        "rab_kpa",
+        "rab_nk",
+        "rab_telezh",
+        "rab_vsu",
+        "sl_kru",
+        "sl_tor",
+        "svarsh"
+    ],
+    
+    "path service positions": [
+        "all_master",
+        "brigadir",
+        "dez_per",
+        "disp",
+        "itr",
+        "kontroler",
+        "monter",
+        "nach_pto",
+        "nach_uch",
+        "operator_dft",
+        "raspred_rabot",
+        "rem_ISSO",
+        "signalist"
+    ],
+
+    "railway name": [
+        "Dal-Vos",
+        "Gorkov",
+        "Kalinin",
+        "Krasnoya",
+        "Kuybyshev",
+        "Moskow",
+        "Okt",
+        "Privolzh",
+        "Sev-Kav",
+        "Sever",
+        "Sverdlov",
+        "Vost-Sib",
+        "Yug-Ural",
+        "Yugo-Vos",
+        "Zabayk",
+        "Zap-Sib"
+    ],
+
+    "quarter 1": [
+        "01_Январь",
+        "02_Февраль",
+        "03_Март"
+    ],
+    
+    "quarter 2": [
+        "04_Апрель",
+        "05_Май",
+        "06_Июнь"
+    ],
+
+    "quarter 3": [
+        "07_Июль",
+        "08_Август",
+        "09_Сентябрь"
+    ],
+
+    "quarter 4": [
+        "10_Октябрь",
+        "11_Ноябрь",
+        "12_Декабрь"
+    ]
+}

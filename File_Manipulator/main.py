@@ -61,6 +61,7 @@ class Quiz:
                 lst.append(elem)
         return lst
 
+
 def main():
     
     original_path = input("\nВведите начальный путь: ")     # Запрос пути где будет производиться поиск файла *.quiz

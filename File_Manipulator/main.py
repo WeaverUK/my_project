@@ -61,7 +61,6 @@ class Quiz:
                 lst.append(elem)
         return lst
 
-
 def main():
     
     original_path = input("\nВведите начальный путь: ")     # Запрос пути где будет производиться поиск файла *.quiz
@@ -117,7 +116,6 @@ def main():
             q = Quiz(SW_PATH)
             print("\nВывод рабочей директории:", q.get_path(), "\n")
             copy_quiz()
-                   
 
 if __name__ == '__main__':
     main()
